@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Implementation-Title: interview-core
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor: gubee
+Created-By: Maven Integration for Eclipse
+

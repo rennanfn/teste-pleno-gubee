@@ -1,9 +1,9 @@
 package br.com.gubee.interview.core.configuration;
 
-import jakarta.annotation.PostConstruct;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
+import javax.annotation.PostConstruct;
 import java.time.ZoneOffset;
 import java.util.TimeZone;
 
